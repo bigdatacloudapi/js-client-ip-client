@@ -9,7 +9,7 @@ For more information about this API and how it works, [please click here.](https
 ## Documentation
 
 Documentation specific to this Free API Client is detailed below.
-For more information on other available APIs, please visit our [API area](https://www.bigdatacloud.net/docs).
+For more information on other available APIs, please visit our [API area](https://www.bigdatacloud.com/docs).
 
 
 
@@ -36,7 +36,7 @@ This client-side API is completely FREE for both commercial and non-commercial u
 
 ## CDN Installation
 
-1. Include the CDN script tag `<script src="https://cdn.jsdelivr.net/gh/bigdatacloudapi/js-client-ip-client@latest/bigdatacloud_client_ip.min.js" type="text/javascript"></script>` before your code execution
+1. Include the CDN script tag `<script src="https://cdn.jsdelivr/gh/bigdatacloudapi/js-client-ip-client@latest/bigdatacloud_client_ip.min.js" type="text/javascript"></script>` before your code execution
 2. Initiate the API Client and make the required calls as necessary
 
 

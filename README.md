@@ -22,8 +22,7 @@ You may use this API and client for Free without an account.
 
 ## Usage Limits
 
-This client-side API is completely FREE for both commercial and non-commercial use, including unlimited usage with no throttling or limitations.
-
+Important Notice: The API is free to use and imposes no throttling limits. However, responsible usage is expected. Excessive or unreasonable requests, such as repeatedly querying the same IP address at high volumes, are prohibited and may result in access being restricted. If you encounter errors or blocked connections despite following reasonable usage guidelines, please contact us for support.
 
 
 ## Manual Installation
@@ -63,8 +62,6 @@ This client-side API is completely FREE for both commercial and non-commercial u
 ```javascript
 {
     "ipString": "8.8.8.8",
-    "ipNumeric": 134744072,
-    "ipType": "IPv4",
-    "isBehindProxy": false,
+    "ipType": "IPv4"
 }
 ```

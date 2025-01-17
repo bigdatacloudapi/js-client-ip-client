@@ -1,7 +1,7 @@
 ;(function(_w,$) {
 	var BDCClientIp=function(endpoint,server) {
 		this.endpoint=endpoint ? endpoint : 'client-ip';
-		this.server=server ? server : 'api.bigdatacloud.net';
+		this.server=server ? server : 'us1.bigdatacloud.net';
 	};
 	BDCClientIp.prototype={
 		getClientIp:function(cb) {
